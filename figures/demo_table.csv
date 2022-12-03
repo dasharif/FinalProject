@@ -1,0 +1,19 @@
+Indeces,Men,Women
+Total,1724,2026
+Starting Age,       ,       
+30 to 49,880,1032
+50 to 64,763,901
+65 to 80,81,93
+over 80,0,0
+Education Level,       ,      
+level 1,765,789
+level 2,465,647
+level 3,224,412
+level 4,270,178
+Starting Illness Status,      ,      
+diabetic,52,50
+not diabetic,1672,1976
+CVD,605,374
+no CVD,1119,1652
+hypertension,1241,1488
+no hypertension,483,538

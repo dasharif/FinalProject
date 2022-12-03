@@ -1,0 +1,1 @@
+The origninal data frame was not used during the analysis. Instead, it was cleaned and broken up into smaller data frames based off the period in which the data was collected. These smaller data frames are labeled PERIOD_1_DATA, PERIOD_2_DATA, and PERIOD_3_DATA

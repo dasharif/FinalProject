@@ -1,0 +1,1 @@
+36 probability matrices were carried out to determine which of the indentified risk factors was the most detrimental to the patients health in tems of likelihod of developing CVD, diabetes, or hypertension. Therefore, after all probabilities were found, they were tabulated into a table, and saved under probabilities.csv

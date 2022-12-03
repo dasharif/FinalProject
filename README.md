@@ -1,0 +1,1 @@
+First, all necessary files and directories were created. The code directory contains a file with my .ipynb notebook. The figures directory contains all fgures created during the course of the analysis. The results folder contains my probabilities matrix table. The starting data contains all csv files with smaller data frames based off the original data frame. 
